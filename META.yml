@@ -1,5 +1,5 @@
 ---
-abstract: 'Lookup and display change logs of CPAN releases'
+abstract: 'Look up and display change logs of CPAN releases'
 author:
   - 'Thomas Sibley <tsibley@cpan.org>'
 build_requires: {}
@@ -31,4 +31,6 @@ resources:
   bugtracker: https://github.com/tsibley/App-cpanchanges/issues
   homepage: https://github.com/tsibley/App-cpanchanges
   repository: https://github.com/tsibley/App-cpanchanges.git
-version: 20130522.0
+version: 20130523.0
+x_contributors:
+  - 'Olaf Alders <olaf@wundersolutions.com>'
