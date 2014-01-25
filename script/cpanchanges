@@ -2,7 +2,7 @@
 use strict;
 use warnings;
 
-our $VERSION = '20130523.0';
+our $VERSION = '20130522.0';
 
 use Getopt::Long;
 use LWP::UserAgent;
